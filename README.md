@@ -14,7 +14,9 @@
 ## Installation
   Npm install and then npm run develop from the root directory
 
-## Usage
+## Deployed link
+https://limitless-shelf-39338.herokuapp.com/
+
   ![screenshot](./assets/screenshot.jpg)
 
   ---
