@@ -14,7 +14,7 @@ import {
 const initialState = {
   products: [],
   cart: [],
-  category: [],
+  categories: [],
   cartOpen: false,
   currentCategory: ''
 }
